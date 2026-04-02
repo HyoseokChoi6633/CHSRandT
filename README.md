@@ -5,7 +5,7 @@
 <img src="./images/screenshoot1.png" width="800" height="293" alt="실행 화면"><br><br>
 복호화된 이미지 모습<br>
 <img src="./images/screenshoot2.png" width="800" height="293" alt="실행 화면"><br><br>
-난수 테이블 수동 조작 대화상자 추가​
+난수 테이블 수동 조작 대화상자 추가<br>​
 메뉴에 추가함<br>
 <img src="./images/screenshoot3.png" width="245" height="92" alt="실행 화면"><br><br>
 추가된 난수 테이블을 수동 설정한 모습.<br>
