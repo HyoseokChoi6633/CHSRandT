@@ -1,0 +1,138 @@
+﻿  CRandomTableEncDec.cpp
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.h(141,13): warning C4251: 'CHSRandT_Library::CRandomTableEncDec::m_iListPassTable': 'std::list<int,std::allocator<int>>'에서는 'CHSRandT_Library::CRandomTableEncDec'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 함
+  (소스 파일 'CRandomTableEncDec.cpp'을(를) 컴파일하는 중)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\list(769,7):
+      'std::list<int,std::allocator<int>>' 선언을 참조하십시오.
+  
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.h(142,13): warning C4251: 'CHSRandT_Library::CRandomTableEncDec::m_iListPassTable2': 'std::list<int,std::allocator<int>>'에서는 'CHSRandT_Library::CRandomTableEncDec'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 함
+  (소스 파일 'CRandomTableEncDec.cpp'을(를) 컴파일하는 중)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\list(769,7):
+      'std::list<int,std::allocator<int>>' 선언을 참조하십시오.
+  
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.h(143,13): warning C4251: 'CHSRandT_Library::CRandomTableEncDec::m_iListPassTable3': 'std::list<int,std::allocator<int>>'에서는 'CHSRandT_Library::CRandomTableEncDec'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 함
+  (소스 파일 'CRandomTableEncDec.cpp'을(를) 컴파일하는 중)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\list(769,7):
+      'std::list<int,std::allocator<int>>' 선언을 참조하십시오.
+  
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.h(145,13): warning C4251: 'CHSRandT_Library::CRandomTableEncDec::m_iListTransEnc': 'std::list<int,std::allocator<int>>'에서는 'CHSRandT_Library::CRandomTableEncDec'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 함
+  (소스 파일 'CRandomTableEncDec.cpp'을(를) 컴파일하는 중)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\list(769,7):
+      'std::list<int,std::allocator<int>>' 선언을 참조하십시오.
+  
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.h(146,13): warning C4251: 'CHSRandT_Library::CRandomTableEncDec::m_iListTransEnc2': 'std::list<int,std::allocator<int>>'에서는 'CHSRandT_Library::CRandomTableEncDec'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 함
+  (소스 파일 'CRandomTableEncDec.cpp'을(를) 컴파일하는 중)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\list(769,7):
+      'std::list<int,std::allocator<int>>' 선언을 참조하십시오.
+  
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.h(147,13): warning C4251: 'CHSRandT_Library::CRandomTableEncDec::m_iListRestoreDec': 'std::list<int,std::allocator<int>>'에서는 'CHSRandT_Library::CRandomTableEncDec'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 함
+  (소스 파일 'CRandomTableEncDec.cpp'을(를) 컴파일하는 중)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\list(769,7):
+      'std::list<int,std::allocator<int>>' 선언을 참조하십시오.
+  
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.h(161,11): warning C4251: 'CHSRandT_Library::CRandomTableEncDec::m_strPath': 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>'에서는 'CHSRandT_Library::CRandomTableEncDec'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 함
+  (소스 파일 'CRandomTableEncDec.cpp'을(를) 컴파일하는 중)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(541,7):
+      'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>' 선언을 참조하십시오.
+  
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.h(162,11): warning C4251: 'CHSRandT_Library::CRandomTableEncDec::m_strFileName': 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>'에서는 'CHSRandT_Library::CRandomTableEncDec'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 함
+  (소스 파일 'CRandomTableEncDec.cpp'을(를) 컴파일하는 중)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(541,7):
+      'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>' 선언을 참조하십시오.
+  
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.h(168,17): warning C4251: 'CHSRandT_Library::CRandomTableEncDec::EXT_CRT': 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>'에서는 'CHSRandT_Library::CRandomTableEncDec'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 함
+  (소스 파일 'CRandomTableEncDec.cpp'을(를) 컴파일하는 중)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(541,7):
+      'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>' 선언을 참조하십시오.
+  
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.h(169,17): warning C4251: 'CHSRandT_Library::CRandomTableEncDec::EXT_CHS': 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>'에서는 'CHSRandT_Library::CRandomTableEncDec'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 함
+  (소스 파일 'CRandomTableEncDec.cpp'을(를) 컴파일하는 중)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(541,7):
+      'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>' 선언을 참조하십시오.
+  
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(31,23): warning C4244: '인수': 'ULONGLONG'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(345,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(496,10): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(496,7): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(497,7): warning C4101: 'iTmp' :참조되지 않은 지역 변수입니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(701,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(702,11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(705,28): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(723,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(724,11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(727,28): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(849,20): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(1008,21): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(1061,35): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(1095,42): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(1096,44): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(1126,35): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(1160,42): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(1161,44): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(1209,7): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(1588,14): warning C4101: 'piListTransEnc' :참조되지 않은 지역 변수입니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(1808,21): warning C4244: '=': 'LRESULT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(1843,21): warning C4244: '=': 'LRESULT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(1870,22): warning C4244: '=': 'LRESULT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(1880,22): warning C4244: '=': 'LRESULT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(1911,22): warning C4244: '=': 'LRESULT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(1922,23): warning C4244: '=': 'LRESULT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(1930,23): warning C4244: '=': 'LRESULT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(1951,22): warning C4244: '=': 'LRESULT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(1971,22): warning C4244: '=': 'LRESULT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(1991,22): warning C4244: '=': 'LRESULT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(2007,21): warning C4244: '=': 'LRESULT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.cpp(2052,61): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  dllmain.cpp
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.h(141,13): warning C4251: 'CHSRandT_Library::CRandomTableEncDec::m_iListPassTable': 'std::list<int,std::allocator<int>>'에서는 'CHSRandT_Library::CRandomTableEncDec'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 함
+  (소스 파일 'dllmain.cpp'을(를) 컴파일하는 중)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\list(769,7):
+      'std::list<int,std::allocator<int>>' 선언을 참조하십시오.
+  
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.h(142,13): warning C4251: 'CHSRandT_Library::CRandomTableEncDec::m_iListPassTable2': 'std::list<int,std::allocator<int>>'에서는 'CHSRandT_Library::CRandomTableEncDec'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 함
+  (소스 파일 'dllmain.cpp'을(를) 컴파일하는 중)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\list(769,7):
+      'std::list<int,std::allocator<int>>' 선언을 참조하십시오.
+  
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.h(143,13): warning C4251: 'CHSRandT_Library::CRandomTableEncDec::m_iListPassTable3': 'std::list<int,std::allocator<int>>'에서는 'CHSRandT_Library::CRandomTableEncDec'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 함
+  (소스 파일 'dllmain.cpp'을(를) 컴파일하는 중)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\list(769,7):
+      'std::list<int,std::allocator<int>>' 선언을 참조하십시오.
+  
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.h(145,13): warning C4251: 'CHSRandT_Library::CRandomTableEncDec::m_iListTransEnc': 'std::list<int,std::allocator<int>>'에서는 'CHSRandT_Library::CRandomTableEncDec'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 함
+  (소스 파일 'dllmain.cpp'을(를) 컴파일하는 중)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\list(769,7):
+      'std::list<int,std::allocator<int>>' 선언을 참조하십시오.
+  
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.h(146,13): warning C4251: 'CHSRandT_Library::CRandomTableEncDec::m_iListTransEnc2': 'std::list<int,std::allocator<int>>'에서는 'CHSRandT_Library::CRandomTableEncDec'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 함
+  (소스 파일 'dllmain.cpp'을(를) 컴파일하는 중)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\list(769,7):
+      'std::list<int,std::allocator<int>>' 선언을 참조하십시오.
+  
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.h(147,13): warning C4251: 'CHSRandT_Library::CRandomTableEncDec::m_iListRestoreDec': 'std::list<int,std::allocator<int>>'에서는 'CHSRandT_Library::CRandomTableEncDec'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 함
+  (소스 파일 'dllmain.cpp'을(를) 컴파일하는 중)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\list(769,7):
+      'std::list<int,std::allocator<int>>' 선언을 참조하십시오.
+  
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.h(161,11): warning C4251: 'CHSRandT_Library::CRandomTableEncDec::m_strPath': 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>'에서는 'CHSRandT_Library::CRandomTableEncDec'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 함
+  (소스 파일 'dllmain.cpp'을(를) 컴파일하는 중)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(541,7):
+      'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>' 선언을 참조하십시오.
+  
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.h(162,11): warning C4251: 'CHSRandT_Library::CRandomTableEncDec::m_strFileName': 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>'에서는 'CHSRandT_Library::CRandomTableEncDec'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 함
+  (소스 파일 'dllmain.cpp'을(를) 컴파일하는 중)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(541,7):
+      'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>' 선언을 참조하십시오.
+  
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.h(168,17): warning C4251: 'CHSRandT_Library::CRandomTableEncDec::EXT_CRT': 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>'에서는 'CHSRandT_Library::CRandomTableEncDec'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 함
+  (소스 파일 'dllmain.cpp'을(를) 컴파일하는 중)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(541,7):
+      'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>' 선언을 참조하십시오.
+  
+F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\CHSRandT\CRandomTableEncDec.h(169,17): warning C4251: 'CHSRandT_Library::CRandomTableEncDec::EXT_CHS': 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>'에서는 'CHSRandT_Library::CRandomTableEncDec'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 함
+  (소스 파일 'dllmain.cpp'을(를) 컴파일하는 중)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(541,7):
+      'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>' 선언을 참조하십시오.
+  
+  코드를 생성하고 있습니다...
+     F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\x64\Debug\CHSRandT.lib 라이브러리 및 F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\x64\Debug\CHSRandT.exp 개체를 생성하고 있습니다.
+  CHSRandT.vcxproj -> F:\Coding\CHSRandT(2024-1031_0103)\CHSRandT\x64\Debug\CHSRandT.dll
